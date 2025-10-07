@@ -1,6 +1,6 @@
 # 🧠 MAC Address Changer
 
-A simple Python tool that changes the MAC address of a network interface to enhance privacy and test network security. Built for learning, ethical hacking, and cybersecurity practice.
+A simple Python tool that changes the MAC address of a network interface to enhance privacy and test network security. Built for learning, penetration testing, and cybersecurity practice.
 
 ---
 
