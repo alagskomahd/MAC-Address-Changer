@@ -43,7 +43,7 @@ It helps users understand how MAC addresses can be changed programmatically usin
    sudo python3 mac_changer.py -i <interface> -m <new-mac-address>
 
 3. **Expected Output**
-   ```psql
+   ```pgsql
   Current MAC address = aa:bb:cc:dd:ee:ff
   [+] Changing MAC address for eth0 to 00:11:22:33:44:55
   [+] MAC address was successfully changed to 00:11:22:33:44:55
@@ -68,7 +68,6 @@ Dennis Alagskomah (alagskomahd)
 🎓 BSc Information Technology, University of Cape Coast, Ghana
 💻 Passionate about Cybersecurity, Network Security, and Cloud Security
 📫 Email: alagskomah25@gmail.com
-
 🔗 LinkedIn: https://www.linkedin.com/in/alagskomah/
    
 
