@@ -44,9 +44,9 @@ It helps users understand how MAC addresses can be changed programmatically usin
 
 3. **Expected Output**
    ```pgsql
-  Current MAC address = aa:bb:cc:dd:ee:ff
-  [+] Changing MAC address for eth0 to 00:11:22:33:44:55
-  [+] MAC address was successfully changed to 00:11:22:33:44:55
+   Current MAC address = aa:bb:cc:dd:ee:ff
+   [+] Changing MAC address for eth0 to 00:11:22:33:44:55
+   [+] MAC address was successfully changed to 00:11:22:33:44:55
 
 3. **If the MAC did not change, the script prints:**
    ```css
