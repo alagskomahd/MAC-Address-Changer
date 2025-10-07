@@ -41,14 +41,18 @@ It helps users understand how MAC addresses can be changed programmatically usin
 2. **Run the script with root privileges**
    ```bash
    sudo python3 mac_changer.py -i <interface> -m <new-mac-address>
+   
+3. **Example**
+   ```bash
+   sudo python3 mac_changer.py -i eth0 -m 00:11:22:33:44:55
 
-3. **Expected Output**
+4. **Expected Output**
    ```pgsql
    Current MAC address = aa:bb:cc:dd:ee:ff
    [+] Changing MAC address for eth0 to 00:11:22:33:44:55
    [+] MAC address was successfully changed to 00:11:22:33:44:55
 
-3. **If the MAC did not change, the script prints:**
+5. **If the MAC did not change, the script prints:**
    ```css
    [-] MAC address did not change
 
