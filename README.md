@@ -67,7 +67,7 @@ Re-checks to confirm the change was successful.
 
 👤 Author
 
-Dennis Alagskomah (alagskomahd)
+Dennis Alagskomah
 🎓 BSc Information Technology, University of Cape Coast, Ghana
 💻 Passionate about Cybersecurity, Network Security, and Cloud Security
 📫 Email: alagskomah25@gmail.com
